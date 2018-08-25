@@ -2,7 +2,7 @@
 # Project: Forest Cover Type
 ## Supervised Learning (Classification)
 
-<p align = 'center'><img src = 'logo.png', height=312, width =312></p>
+<p align = 'center'><img src = 'logo.jpg', height=312, width =412></p>
 
 ----
 
