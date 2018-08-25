@@ -52,11 +52,11 @@ This project contains x files and y folder:
 - `result.ipynb`: This is the main file where I have performed my work on the project.
 - `covtype.data`: The forest cover-type dataset. I have loaded this data in the notebook..
 - `export/` : Folder containing HTML and PDF version file of notebook.
-- `proposal.pdf` : Y
+- `proposal.pdf` : My detailed explaination of the project.
 
 
 #### Dataset file
-This part has been reviwed throughly in `proposal.pdf` file.[link](https://github.com/JuzerShakir/Forest_Cover-Type/blob/master/proposal.pdf)
+This part has been reviwed throughly in `proposal.pdf` file. [Visit](https://github.com/JuzerShakir/Forest_Cover-Type/blob/master/proposal.pdf)
 
 ----
 
@@ -66,12 +66,12 @@ This part has been reviwed throughly in `proposal.pdf` file.[link](https://githu
 
 This project requires **Python 3.6** and the following Python libraries installed:
 
-- [Python 3.6](https://www.python.org/downloads/release/python-36/)
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [seaborn](https://seaborn.pydata.org/installing.html)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [Python 3.6.6](https://www.python.org/downloads/release/python-366/)      (Language Used for the project)
+- [NumPy](http://www.numpy.org/)                                            (For Scientific Computing)
+- [Pandas](http://pandas.pydata.org)                                        (For Data Analysis)
+- [matplotlib](http://matplotlib.org/)                                      (For Visualization)   
+- [seaborn](https://seaborn.pydata.org/installing.html)                     (For Visualization)
+- [scikit-learn](http://scikit-learn.org/stable/)                           (ML Library for Python)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
 
@@ -79,7 +79,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 #### Execution
 
-In a terminal or command window, navigate to the top-level project directory `____` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Forest_Cover-Type` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook result.ipynb
@@ -96,9 +96,9 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 ### Conclusion
 
 #### What I learned
-"Mentioning what knowledge you acquired from this project."
+
 
 #### Results
-"Display/Show/Link to your final prediction results!"
+
 
 ----
