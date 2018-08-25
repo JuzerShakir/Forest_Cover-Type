@@ -27,15 +27,18 @@
 ### Description
 
 #### About the project
-"Describe the project in detail. What is your task and what is that you want to predict."
+This study area includes 4 Wilderness Areas located in the Roosevelt National Forest of Northern Colorado. These area represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological process rather than forest management practices.
+
+Each observation is 30m x 30m forest cover type determined from US Forest Service (USFS) Region 2 Resource Information System (RIS) data. Independent variables were derived from the data originally obtained from US Geological Survey (USGS) and USFS data.
+
 
 
 #### What needs to be done
-"Describe how are you going to solve this project. How are you going to approach it?"
+We have been given a total of 54 attributes, these attributes contain Binary and Quantative attributes, and we need to predict which Forest Cover-Type is it from the given features.
 
 
 #### Why this project
-"Provide Motivation for this project."
+Given elevation, hydrologic, soil, and sunlight data can we predict what type of tree would be in a small patch of forest? This project attempts to predict the predominant type of tree in sections of wooded area. Understanding forest composition is a valuable aspect of managing the health and vitality of our wilderness areas. Classifying cover type can help further research regarding forest fire susceptibility and de/reforestation concerns. Forest cover type data is often collected by hand or computed using remote sensing techniques, e.g. satellite imagery. Such processes are both time and resource intensive. In this project, we aim to predict forest cover type using cartographic data and a variety of classification algorithms.
 
 
 ----
@@ -47,13 +50,13 @@
 This project contains x files and y folder:
 
 - `result.ipynb`: This is the main file where I have performed my work on the project.
-- `result.csv`: The project dataset. I have loaded this data in the notebook..
+- `covtype.data`: The forest cover-type dataset. I have loaded this data in the notebook..
 - `export/` : Folder containing HTML and PDF version file of notebook.
-- 'x' : Y
-- 'x' : Y
+- `proposal.pdf` : Y
+
 
 #### Dataset file
-"Explain the dataset file that contains the data for prediction."
+This part has been reviwed throughly in `proposal.pdf` file.[link](https://github.com/JuzerShakir/Forest_Cover-Type/blob/master/proposal.pdf)
 
 ----
 
@@ -61,14 +64,13 @@ This project contains x files and y folder:
 
 #### Requirements
 
-This project requires **Python x** and the following Python libraries installed:
+This project requires **Python 3.6** and the following Python libraries installed:
 
-- [Python x](https://www.python.org/downloads/release/python-x/)
+- [Python 3.6](https://www.python.org/downloads/release/python-36/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/installing.html)
-- [TensorFlow](https://www.tensorflow.org/install/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
