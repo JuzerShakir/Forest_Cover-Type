@@ -32,9 +32,8 @@ This study area includes 4 Wilderness Areas located in the Roosevelt National Fo
 Each observation is 30m x 30m forest cover type determined from US Forest Service (USFS) Region 2 Resource Information System (RIS) data. Independent variables were derived from the data originally obtained from US Geological Survey (USGS) and USFS data.
 
 
-
 #### What needs to be done
-We have been given a total of 54 attributes, these attributes contain Binary and Quantative attributes, and we need to predict which Forest Cover-Type is it from the given features.
+We have been given a total of 54 attributes/features, these attributes contain Binary and Quantative attributes, and we need to predict which Forest Cover-Type is it from the given features.
 
 
 #### Why this project
@@ -47,16 +46,16 @@ Given elevation, hydrologic, soil, and sunlight data can we predict what type of
 
 #### Files
 
-This project contains x files and y folder:
+This project contains 3 files and 1 folder:
 
 - `result.ipynb`: This is the main file where I have performed my work on the project.
 - `covtype.data`: The forest cover-type dataset. I have loaded this data in the notebook..
-- `export/` : Folder containing HTML and PDF version file of notebook.
 - `proposal.pdf` : My detailed explaination of the project.
+- `export/` : Folder containing HTML and PDF version file of notebook.
 
 
 #### Dataset file
-This part has been reviwed throughly in `proposal.pdf` file. [Visit](https://github.com/JuzerShakir/Forest_Cover-Type/blob/master/proposal.pdf)
+This part has been reviewed throughly in `proposal.pdf` file. [Visit](https://github.com/JuzerShakir/Forest_Cover-Type/blob/master/proposal.pdf)
 
 ----
 
