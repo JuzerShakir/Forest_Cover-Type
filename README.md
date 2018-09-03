@@ -101,9 +101,12 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 - How to document and write a report of your work.
 
 #### Evaluation
-My proposal was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/410/view" target="_blank">Capstone Proposal rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
+My `Proposal` was reviewed by an Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/410/view" target="_blank">Capstone Proposal rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
+
+My `Project` was reviewed by an Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/108/view" target="_blank">Capstone Project Rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
 
 #### Results
 [My Proposal Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1419617)
+[My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1435956)
 
 ----
