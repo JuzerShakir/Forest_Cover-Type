@@ -107,6 +107,7 @@ My `Project` was reviewed by an Udacity reviewer against the **<a href="https://
 
 #### Results
 [My Proposal Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1419617)
+
 [My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/1435956)
 
 ----
