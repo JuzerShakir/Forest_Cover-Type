@@ -81,11 +81,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `Forest_Cover-Type` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook result.ipynb
+ipython notebook report.ipynb
 ```  
 or
 ```bash
-jupyter notebook result.ipynb
+jupyter notebook report.ipynb
 ```
 or if you have 'Jupyter Lab' installed
 ```bash
