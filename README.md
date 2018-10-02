@@ -48,11 +48,11 @@ Given elevation, hydrologic, soil, and sunlight data can we predict what type of
 
 This project contains 3 files and 1 folder:
 
-- `result.ipynb`: This is the main file where I have performed my work on the project.
+- `report.ipynb`: This is the main file where I have performed my work on the project.
 - `covtype.data`: The forest cover-type dataset. I have loaded this data in the notebook..
 - `proposal.pdf` : My detailed explaination of the project.
 - `export/` : Folder containing HTML and PDF version file of notebook.
-
+- `plots/` : Contains images of all the plots that are displayed in `report.ipynb` file.
 
 #### Dataset file
 This part has been reviewed throughly in `proposal.pdf` file. [Visit](https://github.com/JuzerShakir/Forest_Cover-Type/blob/master/proposal.pdf)
