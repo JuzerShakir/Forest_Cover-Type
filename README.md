@@ -102,7 +102,8 @@ This will open the Jupyter/iPython Notebook software and project file in your br
 - How to research and investigate a real-world problem of interest.
 - How to accurately apply specific machine learning algorithms and techniques.
 - How to properly analyze and visualize your data and results for validity.
-- How to document and write a report of your work.
+
+
 
 #### Evaluation
 My `Proposal` was reviewed by an Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/410/view" target="_blank">Capstone Proposal rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
